@@ -1,0 +1,11 @@
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\bin\Debug\netcoreapp2.1\practicum.deps.json
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\bin\Debug\netcoreapp2.1\practicum.runtimeconfig.json
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\bin\Debug\netcoreapp2.1\practicum.runtimeconfig.dev.json
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\bin\Debug\netcoreapp2.1\practicum.dll
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\bin\Debug\netcoreapp2.1\practicum.pdb
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.csprojAssemblyReference.cache
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.csproj.CoreCompileInputs.cache
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.AssemblyInfoInputs.cache
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.AssemblyInfo.cs
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.dll
+D:\Docs\ma\bewijzenmap\periode1.1\pro2\practicum\obj\Debug\netcoreapp2.1\practicum.pdb
